@@ -1,0 +1,27 @@
+{
+    "PmaNoRelation_DisableWarning": true,
+    "ShowSQL": true,
+    "LoginCookieValidity": 14600,
+    "ShowCreateDb": false,
+    "MaxRows": 50,
+    "Order": "ASC",
+    "MinSizeForInputField": 1,
+    "DefaultTabServer": "index.php",
+    "DefaultTabDatabase": "db_structure.php",
+    "DefaultTabTable": "tbl_structure.php",
+    "Export\/csv_columns": false,
+    "Export\/excel_columns": false,
+    "Export\/sql_use_transaction": false,
+    "Export\/sql_if_not_exists": true,
+    "DefaultConnectionCollation": "utf8_general_ci",
+    "TextareaRows": 7,
+    "CharTextareaRows": 2,
+    "Console\/Mode": "collapse",
+    "NavigationTreeDefaultTabTable": "browse",
+    "2fa": {
+        "backend": "",
+        "settings": [],
+        "type": "session"
+    },
+    "lang": "ru"
+}
